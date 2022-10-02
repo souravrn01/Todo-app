@@ -1,0 +1,23 @@
+form{
+    width: 500px;
+    margin:50px auto;
+    background-color: rgb(254, 211, 143);
+    padding: 50PX;
+    border-radius: 25px;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 1em;
+    color: rgb(245, 191, 110);
+    
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.575);
+}
+  .form-control{
+    background-color:rgba(92, 27, 4, 0.69);
+    color:aliceblue
+
+}
